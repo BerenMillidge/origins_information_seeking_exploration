@@ -1,4 +1,6 @@
-# origins_information_seeking_exploration
+# Understanding the Origin of Information-Seeking Exploration in Probabilistic Objectives for Control
+
+
 Code for the numerical example in the paper: 
 
 **"Understanding the Origin of Information-Seeking Exploration in Probabilistic Objectives for Control"** (2021) by Beren Millidge, Alexander Tschantz, Anil Seth, and Christopher Buckley. https://arxiv.org/abs/2103.06859
